@@ -4,6 +4,7 @@ Template Clean Architecture
 * IoC
 
 Command for create the DB using Package Manager Console
+
 step 1
 Add-Migration InitialCreate -p NorthWind.EFcore.Repositories -s NorthWind.EFcore.Repositories -c NorthWindContext
 
